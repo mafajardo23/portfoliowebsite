@@ -1,2 +1,9 @@
 title: Maria Fajardo
 description: This is my website. 
+
+
+
+
+theme: minima
+plugins:
+    - jekyll-remote-theme 
